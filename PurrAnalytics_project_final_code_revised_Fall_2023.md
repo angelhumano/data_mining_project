@@ -830,17 +830,17 @@ Accuracy
 <td style="text-align:left;">
 Logistic Regression
 </td>
-<td style="text-align:left;color: white !important;background-color: black !important;">
-0.6071
+<td style="text-align:left;color: white !important;background-color: white !important;">
+**0.6071**
 </td>
-<td style="text-align:left;color: white !important;background-color: black !important;">
-0.6667
+<td style="text-align:left;color: white !important;background-color: white !important;">
+**0.6667**
 </td>
-<td style="text-align:left;color: white !important;background-color: black !important;">
-0.5574
+<td style="text-align:left;color: white !important;background-color: white !important;">
+**0.5574**
 </td>
-<td style="text-align:left;color: white !important;background-color: black !important;">
-0.8503
+<td style="text-align:left;color: white !important;background-color: white !important;">
+**0.8503**
 </td>
 </tr>
 <tr>
