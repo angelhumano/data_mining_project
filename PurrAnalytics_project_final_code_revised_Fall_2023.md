@@ -834,7 +834,7 @@ Logistic Regression
 ### 0.6071
 </td>
 <td style="text-align:left;color: white !important;background-color: white !important;">
-**0.6667**
+\textbf{0.6667}
 </td>
 <td style="text-align:left;color: white !important;background-color: white !important;">
 **0.5574**
