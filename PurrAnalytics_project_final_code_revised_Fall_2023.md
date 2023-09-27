@@ -831,7 +831,7 @@ Accuracy
 Logistic Regression
 </td>
 <td style="text-align:left;color: black !important;background-color: white !important;">
-0.6071
+# 0.6071
 </td>
 <td style="text-align:left;color: black !important;background-color: white !important;">
 # 0.6667
@@ -956,9 +956,6 @@ Random Forest
       [11.1](https://rstudio.github.io/distill/tables.html)
       
       
- \textbf{45}
- 45
- 
- # 45
+
 
     
