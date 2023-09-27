@@ -831,7 +831,7 @@ Accuracy
 Logistic Regression
 </td>
 <td style="text-align:left;color: white !important;background-color: white !important;">
-**0.6071**
+\textbf{0.6071}
 </td>
 <td style="text-align:left;color: white !important;background-color: white !important;">
 **0.6667**
