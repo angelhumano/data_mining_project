@@ -830,17 +830,17 @@ Accuracy
 <td style="text-align:left;">
 Logistic Regression
 </td>
-<td style="text-align:left;color: white !important;background-color: white !important;">
-### 0.6071
+<td style="text-align:left;color: black !important;background-color: white !important;">
+0.6071
 </td>
-<td style="text-align:left;color: white !important;background-color: white !important;">
-\textbf{0.6667}
+<td style="text-align:left;color: black !important;background-color: white !important;">
+# 0.6667
 </td>
-<td style="text-align:left;color: white !important;background-color: white !important;">
+<td style="text-align:left;color: black !important;background-color: white !important;">
 **0.5574**
 </td>
-<td style="text-align:left;color: white !important;background-color: white !important;">
-**0.8503**
+<td style="text-align:left;color: black !important;background-color: white !important;">
+*0.8503*
 </td>
 </tr>
 <tr>
@@ -954,3 +954,13 @@ Random Forest
 -  Create a table from a data frame for a report:
       [11.0](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html#Column__Row_Specification),
       [11.1](https://rstudio.github.io/distill/tables.html)
+      
+      
+      
+  \begin{tabular}{|c|c|}
+\hline
+Header 1 & Header 2 \\
+\hline
+Some text & \textbf{0.6667} \\
+\hline
+\end{tabular}
