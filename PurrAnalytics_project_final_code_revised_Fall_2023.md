@@ -957,10 +957,20 @@ Random Forest
       
       
       
-  \begin{tabular}{|c|c|}
+ \usepackage{xcolor}
+ 
+ 
+ \begin{table}[h]
+\centering
+\begin{tabular}{|l|l|l|l|l|}
 \hline
-Header 1 & Header 2 \\
+Model & F1\_score & Recall & Precision & Accuracy \\
 \hline
-Some text & \textbf{0.6667} \\
+Logistic Regression & \textcolor{black}{0.6071} & \textcolor{black}{0.6667} & \textbf{\textcolor{black}{0.5574}} & \textbf{\textcolor{black}{0.8503}} \\
 \hline
+% Add more rows here
 \end{tabular}
+\end{table}
+
+
+    
