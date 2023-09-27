@@ -828,19 +828,19 @@ Accuracy
 <tbody>
 <tr>
 <td style="text-align:left;">
-Logistic Regression
+ <strong>Logistic Regression</strong>
 </td>
 <td style="text-align:left;color: black !important;background-color: white !important;">
- <strong><span style="font-size: 24px;"> 0.6071 </span></strong>
+ <strong> 0.6071 </strong>
 </td>
 <td style="text-align:left;color: black !important;background-color: white !important;">
-<strong><span style="font-size: 20px;">  0.6667</span></strong>
+<strong>0.6667</strong>
 </td>
 <td style="text-align:left;color: black !important;background-color: white !important;">
- <strong><span style="font-size: 16px;">  0.5574</span></strong>
+ <strong> 0.5574</strong>
 </td>
 <td style="text-align:left;color: black !important;background-color: white !important;">
- <strong><span style="font-size: 14px;"> 0.8503 </span></strong>
+ <strong>0.8503</strong>
 </td>
 </tr>
 <tr>
