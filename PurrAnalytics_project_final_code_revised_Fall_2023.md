@@ -956,21 +956,9 @@ Random Forest
       [11.1](https://rstudio.github.io/distill/tables.html)
       
       
-      
- \usepackage{xcolor}
+ \textbf{45}
+ 45
  
- 
- \begin{table}[h]
-\centering
-\begin{tabular}{|l|l|l|l|l|}
-\hline
-Model & F1\_score & Recall & Precision & Accuracy \\
-\hline
-Logistic Regression & \textcolor{black}{0.6071} & \textcolor{black}{0.6667} & \textbf{\textcolor{black}{0.5574}} & \textbf{\textcolor{black}{0.8503}} \\
-\hline
-% Add more rows here
-\end{tabular}
-\end{table}
-
+ # 45
 
     
