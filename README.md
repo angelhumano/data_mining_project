@@ -143,6 +143,9 @@ Additionally, employment law or using health data, especially in the district of
 
 We performed oversampling with SMOTE() in the whole dataset at first. This is a data leakage mistake since the observations that are oversampled can appear in both training and testing datasets, which caused our models to perform better at testing time.
 
+## R notebook
+
+[Click here to see our R notebook](https://github.com/angelhumano/data_mining_project/blob/main/PurrAnalytics_project_final_code_revised_Fall_2023.md)
 
 ## References
 
