@@ -15,7 +15,6 @@ Fall 2022 (Updated: Sept. 2023)
 
 
 
-
 ## Business problem
 Employee retention is essential to the company's success, and the attrition rate is the metric that provides insight into how well the company is retaining its employees. Companies can identify and address the problems causing voluntary attrition by measuring and analyzing the attrition rate [1]. That is important because the costs associated with losing valuable employees can be staggering. For example, the cost to hire and train a new employee, when one employee voluntarily departs, can be one-half to two times that employee's annual salary [2].
 
