@@ -97,17 +97,7 @@ Based on the top ten contributing factors to attrition by odd ratios. We recomme
 
 Models trained with employee attrition data can be challenging to implement and interpret. For example, a company may give the wrong employee or employees raises based on their analysis. Other nuance factors in employee attrition data may also lead to incorrect conclusions, such as health issues, or personal circumstances, all of which are very sensitive topics. 
 
-Additionally, employment law or using health data, especially in the district of New York, can be costly by way of lawsuits and settlements. Any action plans based on these interpretations of the employee data should be consulted with the company’s  legal counsel before implementation.
-
-
-
-
-
-
-
-
-
-
+Additionally, employment law or using health data, especially in the district of New York, can be costly by way of lawsuits and settlements. Any action plans based on these interpretations of the employee data should be consulted with the company’s legal counsel before implementation.
 
 
 
