@@ -105,13 +105,46 @@ Additionally, employment law or using health data, especially in the district of
 ## Tables and charts
 
 
-## Table 1: EDA Transformations
+### Table 1: EDA Transformations
 
-![table1_EDA]()
+![table1_EDA](images/table1.png))
 
-Refer to our R Notebook to see the complete EDA.
 
-## Table 2: Final Models Comparison by Measures 
+
+### Table 2: Final models comparison by measures 
+
+![table2_measures](images/table2.png))
+
+### Figure 1a: Class proportion before oversampling
+
+![Figure 1a](images/figure1a.png)
+
+### Figure 1b: Class proportion after oversampling
+
+![Figure 1b](images/figure1b.png)
+
+### Figure 2: Top 10 significant predictors by odd ratios
+
+![Figure 2](images/figure2.png)
+
+### Figure 3: Feature importance for bagging
+
+![Figure 3](images/figure3.png)
+
+### Figure 4: Feature importance for random forest
+
+![Figure 4](images/figure4.png)
+
+### Appendix A: Comparing measures between models (with imbalanced data)
+
+![Appendix A](images/appendix_a.png)
+
+### Appendix B: Comparing measures between models (with data leakage issue)
+
+![Appendix B](images/appendix_b.png)
+
+We performed oversampling with SMOTE() in the whole dataset at first. This is a data leakage mistake since the observations that are oversampled can appear in both training and testing datasets, which caused our models to perform better at testing time.
+
 
 
 
