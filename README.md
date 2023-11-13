@@ -147,8 +147,7 @@ We performed oversampling with SMOTE() in the whole dataset at first. This is a 
 
 
 
-
-## Reference
+## References
 
 - [1] [How to Evaluate the Effectiveness of Your Talent Acquisition Strategy](https://www.skeeled.com/blog/how-to-evaluate-the-effectiveness-of-your-talent-acquisition-strategy)
 - [2] [The Real Value of Getting an Exit Interview Right](https://www.gallup.com/workplace/236051/real-value-getting-exit-interview-right.aspx)
