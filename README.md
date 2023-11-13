@@ -8,11 +8,9 @@ Fall 2022 (Updated: Sept. 2023)
 
 **Brief**: This project focuses on predicting employee attrition and understanding its key drivers, involving data collection, preprocessing, model development, and providing actionable recommendations for HR departments and prospective employees.
 
-**Key insights**: 
-
 **Tools**: R, RStudio, R Notebook, and R Markdown.
 
-**Concepts**: Classificatio, Machine Learning, Logistic Regression, KNN, Decision Trees, Bagging, Random Forest, Performance Measures, and  Model Interpretability.
+**Concepts**: Classification, Machine Learning, Logistic Regression, KNN, Decision Trees, Bagging, Random Forest, Performance Measures, and  Model Interpretability.
 
 
 
@@ -107,6 +105,6 @@ Additionally, employment law or using health data, especially in the district of
 - [1] [How to Evaluate the Effectiveness of Your Talent Acquisition Strategy](https://www.skeeled.com/blog/how-to-evaluate-the-effectiveness-of-your-talent-acquisition-strategy)
 - [2] [The Real Value of Getting an Exit Interview Right](https://www.gallup.com/workplace/236051/real-value-getting-exit-interview-right.aspx)
 - [3] [IBM HR Analytics Employee Attrition & Performance | Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-- [4] [Data dictionary for our dataset](https://docs.google.com/spreadsheets/d/13k0-IkYwHR9Em9-OyjJcwEblWxX_xvtT0LHyk4QZSFM/edit#gid=0)
+- [4] [Data dictionary for our dataset](Data_variable_dictionary.pdf)
 - [5] [Retaining Talent: A Guide to Analyzing and Managing Employee Turnover (page 3)](https://www.shrm.org/hr-today/trends-and-forecasting/special-reports-and-expert-views/documents/retaining-talent.pdf)
 
