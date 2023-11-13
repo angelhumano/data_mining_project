@@ -919,41 +919,41 @@ Random Forest
 
 # Reference
 
-- 1.  Plotting histograms with
+- Plotting histograms with
       ggplot2:[1.0](https://appsilon.com/ggplot2-histograms/),
       [1.1](https://community.rstudio.com/t/different-titles-for-histograms-using-for-loop/143297/9)
 
-- 2.  Using ggtitle :
+- Using ggtitle :
       [2.0](https://www.datanovia.com/en/blog/ggplot-title-subtitle-and-caption/)
 
-- 3.  Box plots:
+- Box plots:
       [3.0](https://ggplot2.tidyverse.org/reference/geom_boxplot.html)
 
-- 4.  Hide axis in ggplot2:
+- Hide axis in ggplot2:
       [4.0](https://www.statology.org/remove-axis-labels-ggplot2/)
 
-- 5.  Bar charts with ggplot2:
+- Bar charts with ggplot2:
       [5.0](http://www.cookbook-r.com/Graphs/Bar_and_line_graphs_(ggplot2)/),
       [5.1](https://r-graph-gallery.com/48-grouped-barplot-with-ggplot2)
 
-- 6.  Adding text to low-level plotting functions:
+- Adding text to low-level plotting functions:
       [6.0](https://bookdown.org/ndphillips/YaRrr/low-level-plotting-functions.html)
 
-- 7.  Adding Labels to a Bar Graph:
+- Adding Labels to a Bar Graph:
       [7.0](https://r-graphics.org/recipe-bar-graph-labels),
       [7.1](https://stats.stackexchange.com/a/68152/314078),
       [7.2](https://www.tutorialspoint.com/how-to-create-a-bar-plot-using-ggplot2-with-percentage-on-y-axis-in-r)
 
-- 8.  Drop linearly dependent variables references:
+- Drop linearly dependent variables references:
       [8.0](https://www.statology.org/r-aliased-coefficients-in-the-model/),
       [8.1](https://stackoverflow.com/a/32791536/15333580)
 
-- 9.  Plotting odd ratios (forest plot):
+- Plotting odd ratios (forest plot):
       [9.0](https://www.mihiretukebede.com/posts/2020-09-30-2020-09-30-plotting-model-coefficients-in-a-forest-plot/)
 
-- 10. Standardize all variables in a data frame:
+- Standardize all variables in a data frame:
       [10](https://www.statology.org/standardize-data-in-r/)
 
-- 11. Create a table from a data frame for a report:
+- Create a table from a data frame for a report:
       [11.0](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html#Column__Row_Specification),
       [11.1](https://rstudio.github.io/distill/tables.html)
