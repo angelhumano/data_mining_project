@@ -14,7 +14,6 @@ Fall 2022 (Updated: Sept. 2023)
 **Concepts**: Classification, Machine Learning, Logistic Regression, KNN, Decision Trees, Bagging, Random Forest, Performance Measures, and  Model Interpretability.
 
 
-
 ## Business problem
 
 Employee retention is essential to the company's success, and the attrition rate is the metric that provides insight into how well the company is retaining its employees. Companies can identify and address the problems causing voluntary attrition by measuring and analyzing the attrition rate [1]. That is important because the costs of losing valuable employees can be staggering. For example, the cost to hire and train a new employee when one employee voluntarily departs can be one-half to two times that employee's annual salary [2].
@@ -110,7 +109,6 @@ Additionally, employment law or using health data, especially in the district of
 ![table1_EDA](images/table1.png))
 
 
-
 ### Table 2: Final models comparison by measures 
 
 ![table2_measures](images/table2.png))
@@ -144,7 +142,6 @@ Additionally, employment law or using health data, especially in the district of
 ![Appendix B](images/appendix_b.png)
 
 We performed oversampling with SMOTE() in the whole dataset at first. This is a data leakage mistake since the observations that are oversampled can appear in both training and testing datasets, which caused our models to perform better at testing time.
-
 
 
 ## References
