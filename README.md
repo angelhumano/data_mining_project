@@ -1,6 +1,7 @@
 ## Predicting and determining the factors that lead to employee attrition
 
 Team: PurrAnalytics
+<br>
 Members: Gabriel Fernandez, Jessica Tappi, Olympia Lala, and Tenzin Bajracharya
 Fall 2022 (Updated: Sept. 2023)
 
